@@ -1,5 +1,7 @@
 streamlit
 pandas
-prophet
+numpy
 plotly
-pickle-mixin
+prophet==1.1.5
+cmdstanpy
+scikit-learn
